@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-1f935486671c2490a5de3404faab4dee92fe33c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-ba9332bceeab476ca7d9f0fa1313f226374dc143.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-c3d2c901455f5f59bda79a9b4617303231bbc8ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a9d21a8b02e7b2b7d30e2f806154acaaf3aebc32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-ed3446247f9dbcc83403279a8d5d0721bcfadc2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-460e6545ddfcf0a67e9b7ce1f19ecb4b10281d54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-b17313d65b297350aa0e478c152cb409e124ec91.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-6bdddd83306e5174eb39c4d0ae4fd02219efb218.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-b1261aef0912cff1194b1f8ad0b18768f890c4f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-a09ccd7a7845c912c2107a9ee5bf2c4f95b91b1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-84a6eb27eb35f8f7af878eab72829cfca26dee75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-ebbaab3c2942ba30d6ae831b5ed48e5a4f61cdf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-efc5c304b3fe3dc3ff86d4c5a7801c3b02d932bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-1651bdf912c4faaac6563b0e149381a077de63f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-1580b99245977bc92fe8c7d97cb4e17b47adf348.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-d80eda45fbb039fb902ce3e1092d669ba33faa01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-995c8d93cbe186bcf61398508f36c1fb991f49d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-cb36834e3288e85b6c66aa6a9cbfa1e108568e34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-4d472cbfa882c5a18842eee834696ee401d29abc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-e1c3f8813e90e94dd3214ad3c1c25477a35f739a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-bd6c919875745799ca1e60bee7ec832d3a5e9632.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-83ce51de031221a6f35650d4a47e33f6fde0f4a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-27def1ffd6600cad8e4263407ce948d440f337af.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-87f5a75e1de9f212162c85b163eaa9811670bbdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-365967d761c93b0d2091a014f5760a79a727b2d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Jan\AndroidStudioProjects\Storyteller\app\build\intermediates\pre-dexed\debug\classes-158f92c4b6fce556baef337def31f07827502509.jar" />
+    </item>
+
+</items>
